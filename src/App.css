@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.redBorder{
+  border: 1px solid red!important;
+}
+.form-border{
+  border: 1 px solid #000;
+}
